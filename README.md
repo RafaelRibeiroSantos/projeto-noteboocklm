@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/7ac25124-e8a7-48d8-9712-7cfb32eeb568
+
+<img width="4260" height="2135" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/fc954fa9-6509-48bb-9acd-29f8a33e3e76" />
+<img width="4260" height="2135" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/6bab7aaa-c24e-4ec5-b089-6b53d2baa13e" />
 # projeto-notebooklm
 
 ## 🎯 Tema e Objetivo
@@ -34,3 +40,8 @@ Agir como um tutor acadêmico e mentor de carreira em tecnologia, especializado 
 
 ## 🔗 Link do Notebook Compartilhado
 * [Acesse o NotebookLM Criado Aqui](https://notebook.google.com/notebook/667293a0-ee41-4b5d-af72-0f9eaf8a65f9)
+<img width="4260" height="2135" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/a9c9118c-ed87-4087-bc38-40fea808379f" />
+
+
+https://github.com/user-attachments/assets/5122511c-33e2-4ed0-95b3-39618a875dab
+
