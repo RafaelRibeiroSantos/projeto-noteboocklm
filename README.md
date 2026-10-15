@@ -1,9 +1,3 @@
-
-
-https://github.com/user-attachments/assets/7ac25124-e8a7-48d8-9712-7cfb32eeb568
-
-<img width="4260" height="2135" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/fc954fa9-6509-48bb-9acd-29f8a33e3e76" />
-<img width="4260" height="2135" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/6bab7aaa-c24e-4ec5-b089-6b53d2baa13e" />
 # projeto-notebooklm
 
 ## 🎯 Tema e Objetivo
